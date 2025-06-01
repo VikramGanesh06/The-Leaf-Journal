@@ -1,64 +1,32 @@
-🌿 LeafJournal – Plant Care Landing Page
-A beautifully crafted, aesthetic, and responsive landing page for LeafJournal, focused on plant care tips, featured plants, and a soothing user experience.
+🌿 The Leaf Journal – Plant Care Landing Page
+A clean, responsive, and aesthetically designed landing page focused on plant care, tips, and a calm nature-inspired experience.
 
-🌟 Features
-Clean and minimal UI
-
-Responsive across all devices
-
-Sections: Hero, Featured Plants, Care Tips, Testimonials, Contact
-
-Soft color palette with elegant typography
-
-Smooth scroll and modern layout
-
-🛠️ Technologies Used
+🔧 Tech Stack
 HTML5
 
 CSS3
 
 JavaScript
 
-Tailwind CSS (or Bootstrap)
+Tailwind CSS
 
 Google Fonts
 
-Font Awesome Icons
+✨ Features
+Minimal and aesthetic design
 
-📁 Folder Structure
-pgsql
-Copy
-Edit
-LeafJournal/
-├── css/
-│   └── styles.css
-├── js/
-│   └── script.js
-├── images/
-│   └── (plant and UI assets)
-└── index.html
+Mobile-friendly & fully responsive
+
+Sections: Hero | Featured Plants | Tips | Testimonials | Contact
+
 🚀 Getting Started
-Clone the repository:
-
 bash
 Copy
 Edit
-git clone https://github.com/YourUsername/LeafJournal-plant-care-page.git
-Open index.html in your browser to view the page.
-
-🎨 Design Highlights
-Nature-inspired layout
-
-Focused on readability and calm vibes
-
-Eye-catching hero section and smooth flow
-
-Ideal for blogs, nurseries, or plant eCommerce
+git clone https://github.com/VikramGanesh06/The-Leaf-Journal.git
+Open index.html in any browser.
 
 👤 Author
-Your Name
+Vikram Ganesh
+GitHub: @VikramGanesh06
 
-GitHub: @YourUsername
-
-🌱 Show Some Love
-If you like the project, feel free to ⭐️ the repo and share feedback!
