@@ -24,6 +24,8 @@ bash
 Copy
 Edit
 git clone https://github.com/VikramGanesh06/The-Leaf-Journal.git
+
+
 Open index.html in any browser.
 
 👤 Author
